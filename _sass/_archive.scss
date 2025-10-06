@@ -48,6 +48,17 @@
   }
 }
 
+.news__item {
+  display: grid;
+  grid-template-columns: 5rem auto;
+  grid-gap: 1rem;
+
+  small {
+    text-align: right;
+    color: mix(#fff, $gray, 20%);
+  }
+}
+
 /* remove border*/
 .page__content {
 
