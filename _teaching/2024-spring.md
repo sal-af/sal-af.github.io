@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for (CSOR 4231) Analysis of Algorithms"
+title: "Analysis of Algorithms (CSOR 4231) "
 collection: teaching
 type: "Masters course"
 permalink: /teaching/2024-spring-ta
