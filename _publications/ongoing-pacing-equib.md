@@ -1,5 +1,5 @@
 ---
-title: "Pacing Equilibria in Auctions"
+title: "Learning in Quasi-Linear Mechanisms"
 collection: publications
 pub_type: "ongoing"
 permalink: /publication/ongoing-colonel-blotto
