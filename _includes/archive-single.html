@@ -41,6 +41,15 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
+
+          {% if post.authors %}
+            <p>
+              {% for author in post.authors %}
+                {{ author }}{% if forloop.last == false %}, {% endif %}
+              {% endfor %}
+            </p>
+          {% endif %}
+
           {% if post.pub_type == "ongoing" %}
             <p>{{post.ongoing_stage}}</p>
           {% else %}
@@ -64,7 +73,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
+      <p class="wordwrap"><a href=" {{ post.paperurl }} ">Paper available here</a></p>
     {% endif %}
 
   </article>
