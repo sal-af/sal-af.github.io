@@ -11,13 +11,13 @@ Hello! I am a PhD student in Operations Research at [Columbia University’s IEO
 
 # News
 
+{% assign sorted_news = site.data.news | sort: "date" | reverse %}
+
 <ul style="list-style-type: none; padding-left: 0;">
+{% for item in sorted_news %}
 <li class="news__item">
-<small>February 2025</small>
-<p>I presented our poster “Commitment to Sparse Strategies in Two-Player Games” at the AAAI25 conference in Philadelphia.</p>
+<small>{{ item.date | date: "%B %Y" }}</small>
+<p>{{ item.content }}</p>
 </li>
-<li class="news__item">
-<small>June 2024</small>
-<p>I attended the “Games and Artificial Intelligence Multidisciplinary Summer School” (GAIMSS) at the Université de Lorraine in Metz.</p>
-</li>
+{% endfor %}
 </ul>
