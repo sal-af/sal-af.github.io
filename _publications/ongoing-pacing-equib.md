@@ -1,5 +1,5 @@
 ---
-title: "Learning in Quasi-Linear Mechanisms"
+title: "Pacing in Quasi-Linear Mechanisms"
 collection: publications
 pub_type: "ongoing"
 permalink: /publication/ongoing-colonel-blotto

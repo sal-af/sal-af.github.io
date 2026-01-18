@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Algorithms (CSOR 4231) "
 collection: teaching
-type: "Masters course"
+type: "Graduate course"
 permalink: /teaching/2024-spring-ta
 venue: "Columbia University, IEOR Department"
 date: 2024-02-01
