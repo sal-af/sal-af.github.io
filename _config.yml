@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Salam Afiouni / Personal Website"
+title                    : "Salam Afiouni"
 title_separator          : "-"
 name                     : &name "Salam Afiouni"
 description              : &description "PhD Candidate at Columbia University in Industrial Engineering and Operations Research (IEOR)"
