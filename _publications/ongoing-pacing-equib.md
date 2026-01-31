@@ -1,5 +1,5 @@
 ---
-title: "Pacing in Quasi-Linear Mechanisms"
+title: "Ongoing project in mechanism design"
 collection: publications
 pub_type: "ongoing"
 permalink: /publication/ongoing-colonel-blotto

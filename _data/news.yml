@@ -2,11 +2,13 @@
   content: 'I will be presenting our paper "Colonel Blotto with Battlefield Games" at the AAAI-26 conference in Singapore.'
 
 - date: 2025-11-08
-  content: 'Our paper "Colonel Blotto with Battlefield Games" got accepted in AAAI-26!'
-
+  content: 'Our paper "Colonel Blotto with Battlefield Games" got accepted in AAAI-26! (oral)'
 
 - date: 2025-02-01
-  content: 'I presented our poster "Commitment to Sparse Strategies in Two-Player Games" at the AAAI025 conference in Philadelphia.'
+  content: 'I presented our work "Commitment to Sparse Strategies in Two-Player Games" at the AAAI025 conference in Philadelphia.'
+
+- date: 2024-12-09
+  content: 'Our paper "Commitment to Sparse Strategies in Two-Player Games" got accepted in AAAI-25!'
 
 - date: 2024-06-01
-  content: 'I attended the "Games and Artificial Intelligence Multidisciplinary Summer School" (GAIMSS) at the Université de Lorraine in Metz.'
+  content: 'I will be attending the "Games and Artificial Intelligence Multidisciplinary Summer School" (GAIMSS) at the Université de Lorraine in Metz.'
