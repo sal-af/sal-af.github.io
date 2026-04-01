@@ -1,8 +1,8 @@
 ---
-title: "Ongoing project in mechanism design"
+title: "Ongoing project on algorithms with predicitons"
 collection: publications
 pub_type: "ongoing"
-permalink: /publication/ongoing-colonel-blotto
+permalink: /publication/ongoing-alps
 excerpt: null
 date: 2030-01-01
 ongoing_stage: 'Ongoing'

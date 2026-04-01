@@ -6,7 +6,7 @@ pub_type: "publication"
 excerpt: #'In this paper, we study k-sparse commitments in games where one player is restricted to mixed strategies with support size at most k. '
 date: 2026-01-22
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence'
-# paperurl: 'https://doi.org/10.1609/aaai.v39i13.33474'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/38702'
 authors:
   - 'Salam Afiouni'
   - 'Jakub Černý'
