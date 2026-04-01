@@ -1,5 +1,5 @@
 ---
-title: "Ongoing project on algorithms with predicitons"
+title: "Ongoing project on mechanism design with predicitons"
 collection: publications
 pub_type: "ongoing"
 permalink: /publication/ongoing-alps
