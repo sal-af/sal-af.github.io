@@ -1,7 +1,7 @@
 ---
 title: "Pacing Equilibrium in Abstract Mechanisms"
 collection: publications
-pub_type: "submitted"
+pub_type: "ongoing"
 permalink: /publication/ongoing-colonel-blotto
 excerpt: null
 date: 2030-01-01
